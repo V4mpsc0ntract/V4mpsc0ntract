@@ -2,7 +2,7 @@
 <p align="center">
 !𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛!
   
-![image](https://media.discordapp.net/attachments/1287942798242222182/1340493269586542673/image.png?ex=67b28f24&is=67b13da4&hm=b930c3ae72d385778f79b6df33b47855ec7313bb66ad29a61555de52bc1b9f21&=&format=webp&quality=lossless&width=788&height=303)
+![image]([https://media.discordapp.net/attachments/1287942798242222182/1340493269586542673/image.png?ex=67b28f24&is=67b13da4&hm=b930c3ae72d385778f79b6df33b47855ec7313bb66ad29a61555de52bc1b9f21&=&format=webp&quality=lossless&width=788&height=303](https://media.discordapp.net/attachments/1287942798242222182/1340492575030902886/image.png?ex=67b28e7f&is=67b13cff&hm=02a70e492b0f31fbdad40631d659f61525f758730eddec70f9c2f039814dfe4e&=&format=webp&quality=lossless&width=973&height=598))
 
 <p align="center">
 heres my info!
