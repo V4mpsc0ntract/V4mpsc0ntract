@@ -7,4 +7,4 @@
 <p align="center">
 heres my info!
 <p align="center">
-info here ✩‧₊˚ info here ✩‧₊˚ more info
+𝐕𝐀𝐌𝐏 ✩‧₊˚ 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜 ✩‧₊˚ 𝟷𝟺
