@@ -2,3 +2,7 @@
 <p align="center">
 !𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛!
 
+<p align="center">
+heres my info!
+<p align="center">
+info here ✩‧₊˚ info here ✩‧₊˚ more info
