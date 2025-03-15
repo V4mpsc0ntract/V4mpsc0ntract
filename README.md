@@ -10,7 +10,9 @@
 <p align="center">
 !𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛!
 
-  ![image](https://media.discordapp.net/attachments/1287942798242222182/1348334652070301718/maxresdefault.png?ex=67d6563f&is=67d504bf&hm=39e0009074d77062ce7e546ae91ec03ba6301df3f12257b8064673df08f1b6e3&=&format=webp&quality=lossless&width=1250&height=703)
+
+  <p align="center">
+  <img width="460" height="300" src="https://media.discordapp.net/attachments/1287942798242222182/1348334652070301718/maxresdefault.png?ex=67d6563f&is=67d504bf&hm=39e0009074d77062ce7e546ae91ec03ba6301df3f12257b8064673df08f1b6e3&=&format=webp&quality=lossless&width=1250&height=703">
 
 <p align="center">
 ✧.* Info
