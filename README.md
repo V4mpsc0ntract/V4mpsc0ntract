@@ -1,8 +1,11 @@
 <p align="center">
   
 ![](https://komarev.com/ghpvc/?username=V4mpsc0ntract&color=red)
-  
-![](https://media.discordapp.net/attachments/1287942798242222182/1348334650984235068/1383279.png?ex=67d6563f&is=67d504bf&hm=332456cf4fb92255053f9bbf0671f2b7df0b8c02c015983cea1a42133ac95b14&=&format=webp&quality=lossless&width=1249&height=702)
+
+  <p align="center">
+  <img width="460" height="300" src="https://media.discordapp.net/attachments/1287942798242222182/1348334650984235068/1383279.png?ex=67d6563f&is=67d504bf&hm=332456cf4fb92255053f9bbf0671f2b7df0b8c02c015983cea1a42133ac95b14&=&format=webp&quality=lossless&width=1249&height=702">
+    
+</p>
 
 <p align="center">
 !𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐠𝐢𝐭𝐡𝐮𝐛!
